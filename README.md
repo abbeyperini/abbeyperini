@@ -1,6 +1,6 @@
 ![Logo Banner](logobanner.png)
 
-#Welcome!
+# Welcome!
 
 I will finish a DigitalCrafts bootcamp in early January, and am looking for a full-time role in web development.
 Here you will find all the code I'm writing for the bootcamp as well as my [personal website](https://abbeyperini.github.io/) and hobby projects.
