@@ -11,8 +11,6 @@ Blogging once a month about things I love about coding.
 
 Redoing Knitworthy as a React app.
 
-Redoing the blog portion of my portfolio site.
-
 # Where you can find me:
 [Twitter](https://twitter.com/AbbeyPerini)
 
