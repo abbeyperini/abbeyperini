@@ -17,7 +17,7 @@ Here you will find all the open source code I've written like my [portfolio](htt
   <h3>Promoting Yourself to Potential Employers</h3>
 
 <a href="https://youtu.be/NVaZu8--4p0?list=PLh9uT23TA65idCyc_orC85RefgY_-fKsG" target="_blank"><img src="./assets/L&LThumbnail.png" 
-alt="Youtube video with Abbey showing in the top corner, her slide says Promoting Yourself to Potential Employers or How to Practice Confidence for the Job Search" width="300" height="300" border="10" /></a>
+alt="Youtube video with Abbey showing in the top corner, her slide says Promoting Yourself to Potential Employers or How to Practice Confidence for the Job Search" width="300" height="250" border="10" style="margin-left:50px" /></a>
 
 </td>
 <td>
@@ -26,7 +26,7 @@ alt="Youtube video with Abbey showing in the top corner, her slide says Promotin
   <h3>Finding Confidence and Opportunities</h3>
 
 <a href="https://virtualcoffee.io/podcast/0302-abbey-perini/" target="_blank"><img src="./assets/podcastInterview.png" 
-alt="screenshot of this podcast episode's page on virtualcoffee.io" width="300" height="300" border="10" /></a>
+alt="screenshot of this podcast episode's page on virtualcoffee.io" width="300" height="250" border="10" style="margin-left:50px" /></a>
 
 </td>
 </tr>
