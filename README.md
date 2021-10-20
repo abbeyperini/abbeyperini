@@ -12,7 +12,7 @@ Here you will find all the open source code I've written like my [portfolio](htt
 <table class="table">
 <tr>
 <td>
-<img width="300" height=".75">
+<img width="300" height="1">
 
   <h3>Promoting Yourself to Potential Employers</h3>
 
@@ -21,7 +21,7 @@ alt="Youtube video with Abbey showing in the top corner, her slide says Promotin
 
 </td>
 <td>
-<img width="300" height=".75">
+<img width="300" height="1">
 
   <h3>Finding Confidence and Opportunities</h3>
 
