@@ -9,12 +9,11 @@ Blogging once a month about things I love about coding.
 
 ## My latest blog posts 
 <!-- MEDIUM-STORY-LIST:START -->
-
 <!-- MEDIUM-STORY-LIST:END -->
 
 ## Where you can find me:
-[Twitter](https://twitter.com/AbbeyPerini)
-[Dev.to](https://dev.to/abbeyperini)
-[Medium](https://medium.com/@abbeyperini)
-[Hashnode](https://abbeyperini.hashnode.dev/)
-[Virtual Coffee](https://virtualcoffee.io/) - a global community for supporting developers of any level
+* [Twitter](https://twitter.com/AbbeyPerini)
+* [Dev.to](https://dev.to/abbeyperini)
+* [Medium](https://medium.com/@abbeyperini)
+* [Hashnode](https://abbeyperini.hashnode.dev/)
+* [Virtual Coffee](https://virtualcoffee.io/) - a global community for supporting developers of any level
