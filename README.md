@@ -12,7 +12,7 @@ Here you will find all the open source code I've written like my [portfolio](htt
 <table class="table">
 <tr>
 <td>
-<img width="400" height="1">
+<img width="300" height="1">
 
   <h3>Promoting Yourself to Potential Employers</h3>
 
@@ -21,12 +21,12 @@ alt="Youtube video with Abbey showing in the top corner, her slide says Promotin
 
 </td>
 <td>
-<img width="400" height="1">
+<img width="300" height="1">
 
   <h3>Finding Confidence and Opportunities</h3>
 
 <a href="https://virtualcoffee.io/podcast/0302-abbey-perini/" target="_blank"><img src="./assets/podcastInterview.png" 
-alt="screenshot of this podcast episode's page on virtualcoffee.io" width="300" height="250" border="10" style="margin:50px" /></a>
+alt="screenshot of this podcast episode's page on virtualcoffee.io" width="300" height="200" border="10" style="margin:50px" /></a>
 
 </td>
 </tr>
