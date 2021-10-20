@@ -26,11 +26,11 @@ alt="Youtube video with Abbey showing in the top corner, her slide says Promotin
   <h4>Finding Confidence and Opportunities</h4>
 
 <a href="https://virtualcoffee.io/podcast/0302-abbey-perini/" target="_blank"><img src="./assets/podcastInterview.png" 
-alt="Livestream Elm Introduction" width="240" height="180" border="10" /></a>
+alt="screenshot of this podcast episode's page on virtualcoffee.io" width="300" height="180" border="10" /></a>
 
 </td>
 </tr>
-
+</table>
 
 # My latest blog posts 
 <!-- MEDIUM-STORY-LIST:START -->
