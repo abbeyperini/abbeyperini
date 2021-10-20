@@ -8,9 +8,9 @@ Volunteering at Virtual Coffee meetups.
 Blogging once a month about things I love about coding.
 
 ## My latest blog posts 
-<!-- DEV-STORY-LIST:START -->
+<!-- MEDIUM-STORY-LIST:START -->
 
-<!-- DEV-STORY-LIST:END -->
+<!-- MEDIUM-STORY-LIST:END -->
 
 ## Where you can find me:
 [Twitter](https://twitter.com/AbbeyPerini)
