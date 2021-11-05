@@ -17,11 +17,11 @@ Here you will find all the open source code I've written like my [portfolio](htt
 
 # My latest blog posts 
 <!-- MEDIUM-STORY-LIST:START -->
+- [Accessibility Auditing My Portfolio Site - Part 2](https://dev.to/abbeyperini/accessibility-auditing-my-portfolio-site-part-2-36p1)
 - [Accessibility Auditing My Portfolio Site - Part 1](https://dev.to/abbeyperini/accessibility-auditing-my-portfolio-site-part-1-2k8k)
 - [8 Things I've Learned Working in a Legacy Codebase](https://dev.to/abbeyperini/8-things-i-ve-learned-working-in-a-legacy-codebase-4h6c)
 - [Sourcing Images and Optimizing Them for the Web](https://dev.to/abbeyperini/sourcing-images-and-optimizing-them-for-the-web-1j5b)
 - [Adding Shiba Inu Loading and Error SVGs to My React Site](https://dev.to/abbeyperini/adding-shiba-inu-loading-and-error-svgs-to-my-react-site-lnj)
-- [A Walkthrough of Updating My Portfolio Site with Netlify Functions and the DEV API](https://dev.to/abbeyperini/a-walkthrough-of-updating-my-portfolio-site-with-netlify-functions-and-the-dev-to-api-dd2)
 <!-- MEDIUM-STORY-LIST:END -->
 
 # Where you can find me:
