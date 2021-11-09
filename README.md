@@ -20,7 +20,7 @@ Here you will find all the open source code I've written like my [portfolio](htt
 - [An Accessible Dark Mode Toggle in React](https://dev.to/abbeyperini/an-accessible-dark-mode-toggle-in-react-aop)
 - [Accessibility Auditing My Portfolio Site - Part 2](https://dev.to/abbeyperini/accessibility-auditing-my-portfolio-site-part-2-36p1)
 - [Accessibility Auditing My Portfolio Site - Part 1](https://dev.to/abbeyperini/accessibility-auditing-my-portfolio-site-part-1-2k8k)
-- [8 Things I've Learned Working in a Legacy Codebase](https://dev.to/abbeyperini/8-things-i-ve-learned-working-in-a-legacy-codebase-4h6c)
+- [8 Things I&#39;ve Learned Working in a Legacy Codebase](https://dev.to/abbeyperini/8-things-i-ve-learned-working-in-a-legacy-codebase-4h6c)
 - [Sourcing Images and Optimizing Them for the Web](https://dev.to/abbeyperini/sourcing-images-and-optimizing-them-for-the-web-1j5b)
 <!-- MEDIUM-STORY-LIST:END -->
 
