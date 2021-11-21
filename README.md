@@ -17,11 +17,11 @@ Here you will find all the open source code I've written like my [portfolio](htt
 
 # My latest blog posts 
 <!-- MEDIUM-STORY-LIST:START -->
+- [Blog Page Accessibility Deep Dive](https://dev.to/abbeyperini/blog-page-accessibility-deep-dive-1hbl)
 - [Accessibility Auditing My Portfolio Site - Part 4](https://dev.to/abbeyperini/accessibility-auditing-my-portfolio-site-part-4-omb)
 - [An Accessible Dark Mode Toggle in React](https://dev.to/abbeyperini/an-accessible-dark-mode-toggle-in-react-aop)
 - [Accessibility Auditing My Portfolio Site - Part 2](https://dev.to/abbeyperini/accessibility-auditing-my-portfolio-site-part-2-36p1)
 - [Accessibility Auditing My Portfolio Site - Part 1](https://dev.to/abbeyperini/accessibility-auditing-my-portfolio-site-part-1-2k8k)
-- [8 Things I&#39;ve Learned Working in a Legacy Codebase](https://dev.to/abbeyperini/8-things-i-ve-learned-working-in-a-legacy-codebase-4h6c)
 <!-- MEDIUM-STORY-LIST:END -->
 
 # Where you can find me:
