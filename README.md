@@ -17,11 +17,11 @@ Here you will find all the open source code I've written like my [portfolio](htt
 
 # My latest blog posts 
 <!-- MEDIUM-STORY-LIST:START -->
+- [A Beginner&#39;s Guide to HTTP - Part 1: Definitions](https://dev.to/abbeyperini/a-beginners-guide-to-http-part-1-definitions-38m7)
 - [Coding for Fun on Top of Coding Professionally](https://dev.to/abbeyperini/coding-for-fun-on-top-of-coding-professionally-3l3f)
 - [Accessibility Auditing My Portfolio Site - Part 6](https://dev.to/abbeyperini/accessibility-auditing-my-portfolio-site-part-6-254l)
 - [How I Structure My Writing](https://dev.to/abbeyperini/how-i-structure-my-writing-55ha)
 - [Blog Page Accessibility Deep Dive](https://dev.to/abbeyperini/blog-page-accessibility-deep-dive-1hbl)
-- [Accessibility Auditing My Portfolio Site - Part 4](https://dev.to/abbeyperini/accessibility-auditing-my-portfolio-site-part-4-omb)
 <!-- MEDIUM-STORY-LIST:END -->
 
 # Where you can find me:
