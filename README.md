@@ -17,11 +17,11 @@ Here you will find all the open source code I've written like my [portfolio](htt
 
 # My latest blog posts 
 <!-- MEDIUM-STORY-LIST:START -->
+- [Semantic HTML: What, Why, and How](https://dev.to/abbeyperini/semantic-html-what-why-and-how-3b34)
 - [We&#39;ve Been Here Since the Beginning](https://dev.to/abbeyperini/weve-been-here-since-the-beginning-2nnp)
 - [A Beginner&#39;s Guide to HTTP - Part 3: Requests](https://dev.to/abbeyperini/a-beginners-guide-to-http-part-3-requests-63)
 - [A Beginner&#39;s Guide to HTTP - Part 2: Responses](https://dev.to/abbeyperini/a-beginners-guide-to-http-part-2-an-app-and-a-server-211p)
 - [A Beginner&#39;s Guide to HTTP - Part 1: Definitions](https://dev.to/abbeyperini/a-beginners-guide-to-http-part-1-definitions-38m7)
-- [Coding for Fun on Top of Coding Professionally](https://dev.to/abbeyperini/coding-for-fun-on-top-of-coding-professionally-3l3f)
 <!-- MEDIUM-STORY-LIST:END -->
 
 # Where you can find me:
