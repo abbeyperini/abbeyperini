@@ -17,11 +17,11 @@ Here you will find all the open source code I've written like my [portfolio](htt
 
 # My latest blog posts 
 <!-- MEDIUM-STORY-LIST:START -->
+- [What is JPEG XL?](https://dev.to/abbeyperini/what-is-jpeg-xl-4n7o)
 - [What is AVIF?](https://dev.to/abbeyperini/what-is-avif-3964)
 - [What is WebP?](https://dev.to/abbeyperini/what-is-webp-2pob)
 - [A Beginner&#39;s Guide to HTTP - Part 4: APIs](https://dev.to/abbeyperini/a-beginners-guide-to-http-part-4-apis-449f)
 - [12 Things I learned During My First Year as a Professional Developer](https://dev.to/abbeyperini/12-things-i-learned-during-my-first-year-as-a-professional-developer-i0f)
-- [Semantic HTML: What, Why, and How](https://dev.to/abbeyperini/semantic-html-what-why-and-how-3b34)
 <!-- MEDIUM-STORY-LIST:END -->
 
 # Where you can find me:
