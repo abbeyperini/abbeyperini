@@ -17,11 +17,11 @@ Here you will find all the open source code I've written like my [portfolio](htt
 
 # My latest blog posts 
 <!-- MEDIUM-STORY-LIST:START -->
+- [Coding and ADHD - Can&#39;t Start](https://dev.to/abbeyperini/coding-and-adhd-cant-start-23l3)
+- [Coding and ADHD - ADHD Brains](https://dev.to/abbeyperini/coding-and-adhd-adhd-brains-im1)
 - [Web Development === Accessibility](https://dev.to/abbeyperini/web-development-accessibility-f8i)
 - [Git Commit Message Template in Terminal and VS Code](https://dev.to/abbeyperini/git-commit-message-template-in-terminal-and-vs-code-326p)
 - [A Beginner&#39;s Guide to HTTP - Part 5: Authentication](https://dev.to/abbeyperini/beginners-guide-to-http-part-5-authentication-3p2p)
-- [What are Favicons?](https://dev.to/abbeyperini/what-are-favicons-2e9d)
-- [What is ICO?](https://dev.to/abbeyperini/what-is-ico-2g8m)
 <!-- MEDIUM-STORY-LIST:END -->
 
 # Where you can find me:
