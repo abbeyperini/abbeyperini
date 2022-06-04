@@ -3,12 +3,12 @@
 # Welcome! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 Here you will find all the open source code I've written like my [portfolio](https://github.com/abbeyperini/Portfolio2.0), [personal website](https://github.com/abbeyperini/abbeyperini.github.io), [tutorials](https://github.com/abbeyperini/ReactReload), and [hobby projects](https://github.com/abbeyperini/Knitworthy). Learn more about me and how to contact me by visiting https://abbeyperini.dev
 
-# Current focus:
+## Current focus
 * In my current role, I'm working in React, Typescript, Next.js, and dipping my toe in mobile development!
 * Volunteering in Virtual Coffee.
 * Blogging and building something in Remix.
 
-# Talks and Interviews
+## Talks and Interviews
 
 | Promoting Yourself to Potential Employers | Finding Confidence and Opportunities |
 | :--: | :--: |
@@ -17,7 +17,7 @@ Here you will find all the open source code I've written like my [portfolio](htt
 | [![Youtube video with Abbey showing in the top corner, her slide says Semantic HTML: What, Why, and How](./assets/HTMLL&LThumbnail.png)](https://www.youtube.com/watch?v=qYPq9Fd-SE4&list=PLh9uT23TA65gwNgoeeZ21XWlxLOwxs3Ls&index=7) | 
 
 
-# My latest blog posts 
+## My latest blog posts 
 <!-- MEDIUM-STORY-LIST:START -->
 - [Coding and ADHD - Can&#39;t Stop](https://dev.to/abbeyperini/coding-and-adhd-cant-stop-10mf)
 - [Coding and ADHD - Can&#39;t Keep Going](https://dev.to/abbeyperini/coding-and-adhd-cant-keep-going-5aj2)
@@ -26,7 +26,7 @@ Here you will find all the open source code I've written like my [portfolio](htt
 - [Web Development === Accessibility](https://dev.to/abbeyperini/web-development-accessibility-f8i)
 <!-- MEDIUM-STORY-LIST:END -->
 
-# Where you can find me:
+## Where you can find me
 * [Dev.to](https://dev.to/abbeyperini)
 * [Medium](https://medium.com/@abbeyperini)
 * [Hashnode](https://abbeyperini.hashnode.dev/)
