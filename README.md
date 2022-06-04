@@ -6,7 +6,7 @@ Here you will find all the open source code I've written like my [portfolio](htt
 # Current focus:
 * In my current role, I'm working in React, Typescript, Next.js, and dipping my toe in mobile development!
 * Volunteering in Virtual Coffee.
-* Blogging once a month about things I love about coding.
+* Blogging and building something in Remix.
 
 # Talks and Interviews
 
