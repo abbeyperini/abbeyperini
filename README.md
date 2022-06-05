@@ -19,11 +19,11 @@ Here you will find all the open source code I've written like my [portfolio](htt
 
 ## My latest blog posts 
 <!-- MEDIUM-STORY-LIST:START -->
+- [Coding and ADHD - Can&#39;t Remember](https://dev.to/abbeyperini/coding-and-adhd-cant-remember-30b4)
 - [Coding and ADHD - Can&#39;t Stop](https://dev.to/abbeyperini/coding-and-adhd-cant-stop-10mf)
 - [Coding and ADHD - Can&#39;t Keep Going](https://dev.to/abbeyperini/coding-and-adhd-cant-keep-going-5aj2)
 - [Coding and ADHD - Can&#39;t Start](https://dev.to/abbeyperini/coding-and-adhd-cant-start-23l3)
 - [Coding and ADHD - ADHD Brains](https://dev.to/abbeyperini/coding-and-adhd-adhd-brains-im1)
-- [Web Development === Accessibility](https://dev.to/abbeyperini/web-development-accessibility-f8i)
 <!-- MEDIUM-STORY-LIST:END -->
 
 ## Where you can find me
