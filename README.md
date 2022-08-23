@@ -19,11 +19,11 @@ Here you will find all the open source code I've written like my [portfolio](htt
 
 ## My latest blog posts 
 <!-- MEDIUM-STORY-LIST:START -->
+- [Troubleshooting Tabbing](https://dev.to/abbeyperini/troubleshooting-tabbing-3mja)
 - [Tabbing Tactfully](https://dev.to/abbeyperini/tabbing-tactfully-2dpc)
 - [Coding and ADHD - Where We Excel](https://dev.to/abbeyperini/coding-and-adhd-where-we-excel-454j)
 - [Coding and ADHD - Can&#39;t Remember](https://dev.to/abbeyperini/coding-and-adhd-cant-remember-30b4)
 - [Coding and ADHD - Can&#39;t Stop](https://dev.to/abbeyperini/coding-and-adhd-cant-stop-10mf)
-- [Coding and ADHD - Can&#39;t Keep Going](https://dev.to/abbeyperini/coding-and-adhd-cant-keep-going-5aj2)
 <!-- MEDIUM-STORY-LIST:END -->
 
 ## Where you can find me
