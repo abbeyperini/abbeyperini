@@ -6,7 +6,7 @@ Here you will find all the open source code I've written like my [portfolio](htt
 ## Current focus
 * In my current role, I'm working in React, Typescript, Next.js, and dipping my toe in mobile development!
 * Volunteering in Virtual Coffee.
-* Blogging and building something in Remix.
+* Blogging
 
 ## Talks and Interviews
 
@@ -30,7 +30,6 @@ Here you will find all the open source code I've written like my [portfolio](htt
 
 ## Where you can find me
 * [Dev.to](https://dev.to/abbeyperini)
-* [Medium](https://medium.com/@abbeyperini)
 * [Hashnode](https://abbeyperini.hashnode.dev/)
 * [Twitter](https://twitter.com/AbbeyPerini)
 * [LinkedIn](https://www.linkedin.com/in/abigail-perini/)
