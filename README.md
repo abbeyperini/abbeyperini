@@ -15,9 +15,9 @@ Here you will find all the open source code I've written like my [portfolio](htt
 | [![Youtube video with Abbey showing in the top corner, her slide says Promoting Yourself to Potential Employers or How to Practice Confidence for the Job Search](./assets/L&LThumbnail.png)](https://www.youtube.com/watch?v=NVaZu8--4p0&list=PLh9uT23TA65idCyc_orC85RefgY_-fKsG&index=17) | [![screenshot of this podcast episode's page on virtualcoffee.io](./assets/podcastInterview.png)](https://virtualcoffee.io/podcast/0302-abbey-perini/) 
 | Optimize Your Resume For Both A Hiring Manager And An ATS | Lightning Talk - Semantic HTML: What, Why, and How |
 | [![Youtube video with Abbey showing in the top corner, her slide says ATS Compatible Resumes](./assets/ResumeL&LThumbnail.png)](https://www.youtube.com/watch?v=XwPVZNvP_IM&list=PLh9uT23TA65idCyc_orC85RefgY_-fKsG&index=5) | [![Youtube video with Abbey showing in the top corner, her slide says Semantic HTML: What, Why, and How](./assets/HTMLL&LThumbnail.png)](https://www.youtube.com/watch?v=qYPq9Fd-SE4&list=PLh9uT23TA65gwNgoeeZ21XWlxLOwxs3Ls&index=7) |
-| Front-end Foxes Day - Semantic HTML: What, Why, and How |
+| Front-end Foxes Day - Semantic HTML: What, Why, and How | |
 | [![Talk video thumbnail Front-end Foxes Day Semantic HTML: What, Why, and How by Abbey Perini with a cute fox coding and drinking coffee 28:21 min
-Sep 13, 2022](./assets/FEFDThumbnail.png)](https://cfe.dev/sessions/fefd2022-semantic-html/)|
+Sep 13, 2022](./assets/FEFDThumbnail.png)](https://cfe.dev/sessions/fefd2022-semantic-html/)| |
 
 
 ## My latest blog posts 
