@@ -21,11 +21,11 @@ Here you will find all the open source code I've written like my [portfolio](htt
 
 ## My latest blog posts 
 <!-- MEDIUM-STORY-LIST:START -->
+- [#gitPanic - Git 101](https://dev.to/abbeyperini/gitpanic-git-101-10db)
 - [Transforming Tired Tabbing](https://dev.to/abbeyperini/transforming-tired-tabbing-3809)
 - [Troubleshooting Tabbing](https://dev.to/abbeyperini/troubleshooting-tabbing-3mja)
 - [Tabbing Tactfully](https://dev.to/abbeyperini/tabbing-tactfully-2dpc)
 - [Coding and ADHD - Where We Excel](https://dev.to/abbeyperini/coding-and-adhd-where-we-excel-454j)
-- [Coding and ADHD - Can&#39;t Remember](https://dev.to/abbeyperini/coding-and-adhd-cant-remember-30b4)
 <!-- MEDIUM-STORY-LIST:END -->
 
 ## Where you can find me
