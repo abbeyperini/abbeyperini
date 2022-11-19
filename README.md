@@ -21,11 +21,11 @@ Here you will find all the open source code I've written like my [portfolio](htt
 
 ## My latest blog posts 
 <!-- MEDIUM-STORY-LIST:START -->
+- [#gitPanic - Documentation and Profiles](https://dev.to/abbeyperini/gitpanic-documentation-and-profiles-1end)
 - [#gitPanic - Stash](https://dev.to/abbeyperini/gitpanic-stash-4gll)
 - [#gitPanic - Interactive Rebase](https://dev.to/abbeyperini/gitpanic-interactive-rebase-48fe)
 - [#gitPanic - HEAD](https://dev.to/abbeyperini/gitpanic-head-37m8)
 - [#gitPanic - Working in a Repo](https://dev.to/abbeyperini/gitpanic-working-in-a-repo-1chg)
-- [#gitPanic - Merging and Rebasing](https://dev.to/abbeyperini/gitpanic-merging-and-rebasing-2mo3)
 <!-- MEDIUM-STORY-LIST:END -->
 
 ## Where you can find me
