@@ -32,6 +32,6 @@ Here you will find all the open source code I've written like my [portfolio](htt
 * [Dev.to](https://dev.to/abbeyperini)
 * [Hashnode](https://abbeyperini.hashnode.dev/)
 * [Twitter](https://twitter.com/AbbeyPerini)
-* [Mastodon](@AbbeyPerini@hachyderm.io)
+* [Mastodon](https://hachyderm.io/@AbbeyPerini)
 * [LinkedIn](https://www.linkedin.com/in/abigail-perini/)
 * [Virtual Coffee](https://virtualcoffee.io/) - a global community for supporting developers of any level
