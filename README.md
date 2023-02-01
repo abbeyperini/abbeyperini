@@ -21,11 +21,11 @@ Here you will find all the open source code I've written like my [portfolio](htt
 
 ## My latest blog posts 
 <!-- MEDIUM-STORY-LIST:START -->
+- [TL;DR CommonJS vs ESM](https://dev.to/abbeyperini/tldr-commonjs-vs-esm-47dk)
 - [Writing a Technical Blog](https://dev.to/abbeyperini/writing-a-technical-blog-79o)
 - [Web Security 101 - Part 2: User Input](https://dev.to/abbeyperini/web-security-101-part-2-user-input-j20)
 - [Web Security 101 - Part 1: Secrets](https://dev.to/abbeyperini/web-security-101-part-1-secrets-5e39)
 - [About My Digital Garden](https://dev.to/abbeyperini/about-my-digital-garden-2o4h)
-- [#gitPanic - Tools](https://dev.to/abbeyperini/gitpanic-tools-4bbl)
 <!-- MEDIUM-STORY-LIST:END -->
 
 ## Where you can find me
