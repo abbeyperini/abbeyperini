@@ -21,11 +21,11 @@ Here you will find all the open source code I've written like my [portfolio](htt
 
 ## My latest blog posts 
 <!-- MEDIUM-STORY-LIST:START -->
+- [From Idea to Design for Non-Designers](https://dev.to/abbeyperini/from-idea-to-design-for-non-designers-m6d)
 - [Dark Mode Toggle and prefers-color-scheme](https://dev.to/abbeyperini/dark-mode-toggle-and-prefers-color-scheme-4f3m)
 - [8 Ways to Support Women Developers](https://dev.to/abbeyperini/8-ways-to-support-women-developers-55lf)
 - [From Research to Writing Reference Material](https://dev.to/abbeyperini/from-research-to-writing-reference-material-2ao9)
 - [TL;DR CommonJS vs ESM](https://dev.to/abbeyperini/tldr-commonjs-vs-esm-47dk)
-- [Writing a Technical Blog](https://dev.to/abbeyperini/writing-a-technical-blog-79o)
 <!-- MEDIUM-STORY-LIST:END -->
 
 ## Where you can find me
