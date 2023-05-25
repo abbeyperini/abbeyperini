@@ -1,11 +1,11 @@
 ![Logo Banner](logobanner.png)
 
 # Welcome! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-Here you will find all the open source code I've written like my [portfolio](https://github.com/abbeyperini/Portfolio2.0), [personal website](https://github.com/abbeyperini/abbeyperini.github.io), [tutorials](https://github.com/abbeyperini/ReactReload), and [hobby projects](https://github.com/abbeyperini/Knitworthy). Learn more about me and how to contact me by visiting https://abbeyperini.dev
+Here you will find all the open source code I've written. Learn more about me and how to contact me by visiting https://abbeyperini.dev
 
 ## Current focus
 * In my current role, I'm working in React, Typescript, Next.js, and dipping my toe in mobile development!
-* Volunteering in Virtual Coffee.
+* Volunteering in [Virtual Coffee](https://virtualcoffee.io/).
 * Blogging
 
 ## Talks and Interviews
@@ -32,6 +32,4 @@ Here you will find all the open source code I've written like my [portfolio](htt
 * [Dev.to](https://dev.to/abbeyperini)
 * [Hashnode](https://abbeyperini.hashnode.dev/)
 * [Twitter](https://twitter.com/AbbeyPerini)
-* <a rel="me" href="https://hachyderm.io/@AbbeyPerini">Mastodon</a>
 * [LinkedIn](https://www.linkedin.com/in/abigail-perini/)
-* [Virtual Coffee](https://virtualcoffee.io/) - a global community for supporting developers of any level
