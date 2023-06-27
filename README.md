@@ -21,11 +21,11 @@ Here you will find all the open source code I've written. Learn more about me an
 
 ## My latest blog posts 
 <!-- MEDIUM-STORY-LIST:START -->
+- [Live Regions in React](https://dev.to/abbeyperini/live-regions-in-react-4dmd)
 - [From Idea to Design for Non-Designers](https://dev.to/abbeyperini/from-idea-to-design-for-non-designers-m6d)
 - [Dark Mode Toggle and prefers-color-scheme](https://dev.to/abbeyperini/dark-mode-toggle-and-prefers-color-scheme-4f3m)
 - [8 Ways to Support Women Developers](https://dev.to/abbeyperini/8-ways-to-support-women-developers-55lf)
 - [From Research to Writing Reference Material](https://dev.to/abbeyperini/from-research-to-writing-reference-material-2ao9)
-- [TL;DR CommonJS vs ESM](https://dev.to/abbeyperini/tldr-commonjs-vs-esm-47dk)
 <!-- MEDIUM-STORY-LIST:END -->
 
 ## Where you can find me
