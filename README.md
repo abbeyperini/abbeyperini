@@ -16,7 +16,7 @@ Here you will find all the open source code I've written. Learn more about me an
 | Optimize Your Resume For Both A Hiring Manager And An ATS | Lightning Talk - Semantic HTML: What, Why, and How |
 | [![Youtube video with Abbey showing in the top corner, her slide says ATS Compatible Resumes](./assets/ResumeL&LThumbnail.png)](https://www.youtube.com/watch?v=XwPVZNvP_IM&list=PLh9uT23TA65idCyc_orC85RefgY_-fKsG&index=5) | [![Youtube video with Abbey showing in the top corner, her slide says Semantic HTML: What, Why, and How](./assets/HTMLL&LThumbnail.png)](https://www.youtube.com/watch?v=qYPq9Fd-SE4&list=PLh9uT23TA65gwNgoeeZ21XWlxLOwxs3Ls&index=7) |
 | Front-end Foxes Day - Semantic HTML: What, Why, and How |
-| [![Talk video thumbnail Front-end Foxes Day Semantic HTML: What, Why, and How by Abbey Perini with a cute fox coding and drinking coffee](./assets/FEFDThumbnail.png)](https://cfe.dev/sessions/fefd2022-semantic-html/)|
+| [![Talk video thumbnail Front-end Foxes Day Semantic HTML: What, Why, and How by Abbey Perini with a cute fox coding and drinking coffee](./assets/FEFDThumbnail.png)](https://cfe.dev/sessions/fefd2022-semantic-html/) |
 | From Idea to Design for Non-Designers on JSDrops |
 | [![Thumbnail for From Idea to Design for Non-Designers on JSDrops](./assets/JSDrops.webp)](https://dropjs.com/from-idea-to-design-for-non-designers-with-abbey-perini)| |
 
