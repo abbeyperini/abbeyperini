@@ -5,11 +5,11 @@ Here you will find all the open source code I've written. Learn more about me an
 
 ## My latest blog posts 
 <!-- MEDIUM-STORY-LIST:START -->
+- [How I Got Feedback After Every Tech Interview](https://dev.to/abbeyperini/how-i-got-feedback-after-every-tech-interview-2ig4)
 - [Getting Started in a New Codebase](https://dev.to/abbeyperini/getting-started-in-a-new-codebase-e7b)
 - [NodeIterator and TreeWalker Web APIs](https://dev.to/abbeyperini/nodeiterator-and-treewalker-web-apis-278p)
 - [Live Regions in React](https://dev.to/abbeyperini/live-regions-in-react-4dmd)
 - [From Idea to Design for Non-Designers](https://dev.to/abbeyperini/from-idea-to-design-for-non-designers-m6d)
-- [Dark Mode Toggle and prefers-color-scheme](https://dev.to/abbeyperini/dark-mode-toggle-and-prefers-color-scheme-4f3m)
 <!-- MEDIUM-STORY-LIST:END -->
 
 ## Talks and Interviews
