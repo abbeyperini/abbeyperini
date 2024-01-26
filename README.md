@@ -5,11 +5,11 @@ Here you will find all the open source code I've written. Learn more about me an
 
 ## My latest blog posts 
 <!-- MEDIUM-STORY-LIST:START -->
+- [Three Human Problems in a Technical Trench Coat](https://dev.to/abbeyperini/three-human-problems-in-a-technical-trench-coat-90k)
 - [🌟 #DEVImpact2023 Reflections](https://dev.to/abbeyperini/devimpact2023-reflections-3p32)
 - [12 Tips for Attending a Tech Conference](https://dev.to/abbeyperini/12-tips-for-attending-a-tech-conference-14mp)
 - [Cognitive Load and Your Development Environment](https://dev.to/abbeyperini/cognitive-load-and-your-development-environment-2nc3)
 - [How I Got Feedback After Every Tech Interview](https://dev.to/abbeyperini/how-i-got-feedback-after-every-tech-interview-2ig4)
-- [Getting Started in a New Codebase](https://dev.to/abbeyperini/getting-started-in-a-new-codebase-e7b)
 <!-- MEDIUM-STORY-LIST:END -->
 
 ## Talks and Interviews
