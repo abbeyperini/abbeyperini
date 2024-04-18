@@ -5,11 +5,11 @@ Here you will find all the open source code I've written. Learn more about me an
 
 ## My latest blog posts 
 <!-- MEDIUM-STORY-LIST:START -->
+- [12 Tips from a Mid-level Developer](https://dev.to/abbeyperini/12-tips-from-a-mid-level-developer-29bk)
 - [A Love Letter to the Underrepresented in Tech](https://dev.to/abbeyperini/a-love-letter-to-the-underrepresented-in-tech-4jj3)
 - [Slots, Slots, Slots, Everybody!](https://dev.to/abbeyperini/slots-slots-slots-everybody-4p5i)
 - [Three Human Problems in a Technical Trench Coat](https://dev.to/abbeyperini/three-human-problems-in-a-technical-trench-coat-90k)
 - [🌟 #DEVImpact2023 Reflections](https://dev.to/abbeyperini/devimpact2023-reflections-3p32)
-- [12 Tips for Attending a Tech Conference](https://dev.to/abbeyperini/12-tips-for-attending-a-tech-conference-14mp)
 <!-- MEDIUM-STORY-LIST:END -->
 
 ## Talks and Interviews
