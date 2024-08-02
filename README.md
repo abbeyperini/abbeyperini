@@ -1,7 +1,6 @@
 ![Logo Banner](logobanner.png)
 
 # Welcome! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-Here you will find all the open source code I've written. Learn more about me and how to contact me by visiting https://abbeyperini.dev
 
 ## My latest blog posts 
 <!-- MEDIUM-STORY-LIST:START -->
