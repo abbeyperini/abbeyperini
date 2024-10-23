@@ -4,11 +4,11 @@
 
 ## My latest blog posts 
 <!-- MEDIUM-STORY-LIST:START -->
+- [Dark Mode Toggle in HTML Web Components](https://dev.to/abbeyperini/dark-mode-toggle-using-html-web-components-h0g)
 - [So You Need to Give a Talk...](https://dev.to/abbeyperini/so-you-need-to-give-a-talk-30b4)
 - [Cancer Sucks](https://dev.to/abbeyperini/cancer-sucks-1e2i)
 - [Share Your Experience Loudly and Often](https://dev.to/abbeyperini/share-your-experience-loudly-and-often-36ah)
 - [12 Tips from a Mid-level Developer](https://dev.to/abbeyperini/12-tips-from-a-mid-level-developer-29bk)
-- [A Love Letter to the Underrepresented in Tech](https://dev.to/abbeyperini/a-love-letter-to-the-underrepresented-in-tech-4jj3)
 <!-- MEDIUM-STORY-LIST:END -->
 
 ## Where you can find me
