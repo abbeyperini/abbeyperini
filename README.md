@@ -4,11 +4,11 @@
 
 ## My latest blog posts 
 <!-- MEDIUM-STORY-LIST:START -->
+- [10 Tips from 10 Tech Conferences in 2024](https://dev.to/abbeyperini/10-tips-from-10-tech-conferences-in-2024-ik)
 - [Dark Mode Toggle in HTML Web Components](https://dev.to/abbeyperini/dark-mode-toggle-using-html-web-components-h0g)
 - [So You Need to Give a Talk...](https://dev.to/abbeyperini/so-you-need-to-give-a-talk-30b4)
 - [Cancer Sucks](https://dev.to/abbeyperini/cancer-sucks-1e2i)
 - [Share Your Experience Loudly and Often](https://dev.to/abbeyperini/share-your-experience-loudly-and-often-36ah)
-- [12 Tips from a Mid-level Developer](https://dev.to/abbeyperini/12-tips-from-a-mid-level-developer-29bk)
 <!-- MEDIUM-STORY-LIST:END -->
 
 ## Where you can find me
