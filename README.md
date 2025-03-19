@@ -4,11 +4,11 @@
 
 ## My latest blog posts 
 <!-- MEDIUM-STORY-LIST:START -->
+- [Cancer Treatment Sucks](https://dev.to/abbeyperini/cancer-treatment-sucks-3ccp)
 - [We&#39;ve Been Here Since the Beginning: 2025 Edition](https://dev.to/abbeyperini/weve-been-here-since-the-beginning-2025-edition-90)
 - [10 Tips from 10 Tech Conferences in 2024](https://dev.to/abbeyperini/10-tips-from-10-tech-conferences-in-2024-ik)
 - [Dark Mode Toggle in HTML Web Components](https://dev.to/abbeyperini/dark-mode-toggle-using-html-web-components-h0g)
 - [So You Need to Give a Talk...](https://dev.to/abbeyperini/so-you-need-to-give-a-talk-30b4)
-- [Cancer Sucks](https://dev.to/abbeyperini/cancer-sucks-1e2i)
 <!-- MEDIUM-STORY-LIST:END -->
 
 ## Where you can find me
