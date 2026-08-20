@@ -4,11 +4,11 @@
 
 ## My latest blog posts 
 <!-- MEDIUM-STORY-LIST:START -->
+- [State Management in Front-end Web Development: Mutators](https://dev.to/abbeyperini/state-management-in-front-end-web-development-mutators-24gp)
 - [Surviving Cancer Doesn&#39;t Suck](https://dev.to/abbeyperini/surviving-cancer-doesnt-suck-1ef5)
 - [Gang of Four Design Patterns in Memes - Creational](https://dev.to/abbeyperini/gang-of-four-design-patterns-in-memes-creational-5gci)
 - [State Management in Front-end Web Development: Actions, Dispatch, and Reducers](https://dev.to/abbeyperini/state-management-in-front-end-web-development-actions-dispatch-and-reducers-gfo)
 - [State Management in Front-end Web Development: State 101](https://dev.to/abbeyperini/state-management-in-front-end-web-development-state-101-48g3)
-- [BenQ Programming Monitor Review](https://dev.to/abbeyperini/benq-programming-monitor-review-2jif)
 <!-- MEDIUM-STORY-LIST:END -->
 
 ## Where you can find me
